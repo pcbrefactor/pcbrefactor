@@ -5,7 +5,6 @@ Je reprends des cartes électroniques existantes, je les analyse bloc par bloc, 
 
 ### 🔧 Série en cours : Arduino UNO R3
 Rétro-ingénierie de l'UNO R3, puis redesign complet dans KiCad : USB-C, nouveau bloc d'alimentation, fabrication et assemblage chez JLCPCB.
-Projet KiCad, bibliothèque `PCB_REFACTOR` et fichiers de fabrication : [pcb-refactor](https://github.com/pcbrefactor/pcb-refactor)
 
 ### 🧰 Outils
 KiCad 10 · FreeCAD · LCSC · JLCPCB
